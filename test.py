@@ -1,3 +1,5 @@
+#kwajongen
+
 import random
 
 NUMMERS = ["9","10","J","D","K","A"]
