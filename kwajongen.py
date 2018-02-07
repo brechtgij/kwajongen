@@ -1,4 +1,4 @@
-#kwajongen
+#kwajongen v1.0
 
 import random
 
